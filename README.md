@@ -3,7 +3,7 @@
 
 This project is a simple 3D room simulation using Babylon.js. It features a draggable cube that can be moved around a 3D room.
 
-live demo :
+live demo :https://babylon-js-project.vercel.app/
 ## Setup
 
 1. Clone this repository to your local machine.
